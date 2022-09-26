@@ -1,0 +1,16 @@
+.jumbotron {
+  background: #333;
+}
+
+.ling {
+  color: black;
+}
+
+li {
+  list-style: none;
+}
+
+#intro {
+  background-image: url("img/banner.jpg");
+  height: 30vh;
+}
